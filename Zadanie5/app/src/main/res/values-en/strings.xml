@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zadanie3</string>
+    <string name="name_hint">name of task</string>
+    <string name="name_label">name</string>
+    <string name="details_label">details</string>
+    <string name="done_label">done</string>
+    <string name="task_add_new">new task</string>
+    <string name="show_subtitle">show title</string>
+    <string name="hide_subtitle">hide title</string>
+    <string name="subtitle_format">%1$d tasks</string>
+</resources>
